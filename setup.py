@@ -10,7 +10,7 @@ def read(*rnames):
     return open(os.path.join(os.path.dirname(os.path.abspath(__file__)), *rnames)).read()
 setup(
     name="dapplooker",
-    version="0.0.1",
+    version="0.0.2",
     description="A minimal, complete, python API for DappLooker",
     long_description=read("README.md"),
     url="https://github.com/0xSumitBanik/dapplooker-py-sdk",
