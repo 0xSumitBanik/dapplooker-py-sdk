@@ -6,6 +6,9 @@ Discover blockchain insights effortlessly with the DappLooker Python SDK. Access
 
 **Heavily inspired by [DappLooker SDK](https://github.com/dapplooker/dapplooker-sdk/)**
 
+[![Downloads](https://pepy.tech/badge/dapplooker)](https://pepy.tech/project/dapplooker)
+
+
 ## Introduction
 
 DappLooker Python SDK provides developers with programmatic access to comprehensive blockchain data in the Web3 environment. With this SDK, you can easily retrieve popular charts data for your decentralized applications (Dapps). The DappLooker Analytics platform offers a no-code, community-driven analytics and visualization platform for blockchain networks and Dapps.
